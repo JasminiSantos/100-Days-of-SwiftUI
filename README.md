@@ -5,3 +5,5 @@ My learning journey in SwiftUI following the <a href="https://www.hackingwithswi
 ## Day 1 – Variables, constants, strings, and numbers
 
 ## Day 2 – Booleans, string interpolation, and checkpoint 1
+ 
+## Day 3 – Arrays, dictionaries, sets, and enums

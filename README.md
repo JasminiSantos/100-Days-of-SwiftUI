@@ -7,3 +7,5 @@ My learning journey in SwiftUI following the <a href="https://www.hackingwithswi
 ## Day 2 – Booleans, string interpolation, and checkpoint 1
  
 ## Day 3 – Arrays, dictionaries, sets, and enums
+ 
+## Day 4 – type annotations and checkpoint 2

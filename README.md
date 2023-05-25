@@ -9,3 +9,5 @@ My learning journey in SwiftUI following the <a href="https://www.hackingwithswi
 ## Day 3 – Arrays, dictionaries, sets, and enums
  
 ## Day 4 – type annotations and checkpoint 2
+
+## Day 5 – if, switch, and the ternary operator

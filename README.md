@@ -11,3 +11,5 @@ My learning journey in SwiftUI following the <a href="https://www.hackingwithswi
 ## Day 4 – type annotations and checkpoint 2
 
 ## Day 5 – if, switch, and the ternary operator
+
+## Day 6 – loops, summary, and checkpoint 3
